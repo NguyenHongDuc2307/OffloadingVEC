@@ -1,0 +1,19 @@
+Loading net-file from 'C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\EdgeComputing_LuST\lust.net.xml' ... done (1588ms).
+Loading additional-files from 'C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\EdgeComputing_LuST\vtypes.add.xml' ... done (1ms).
+Loading additional-files from 'C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\EdgeComputing_LuST\busstops.add.xml' ... done (20ms).
+Loading additional-files from 'C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\EdgeComputing_LuST\e1detectors.add.xml' ... done (125ms).
+Loading additional-files from 'C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\EdgeComputing_LuST\lust.poly.xml' ... done (584ms).
+Loading additional-files from 'C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\EdgeComputing_LuST\tll.static.xml' ... done (20ms).
+Loading done.
+Simulation started with time: 0.00
+Warning: Vehicle 'randUni13909:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=464.00.
+Simulation ended at time: 595.00
+Performance: 
+ Duration: 52.77s
+ Real time factor: 11.2753
+ UPS: 821.072579
+Vehicles: 
+ Inserted: 157 (Loaded: 163)
+ Running: 113
+ Waiting: 0
+

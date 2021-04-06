@@ -1,0 +1,137 @@
+Loading net-file from 'C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\OffloadOptimization\lust.net.xml' ... done (1754ms).
+Loading additional-files from 'C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\OffloadOptimization\vtypes.add.xml' ... done (1ms).
+Loading additional-files from 'C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\OffloadOptimization\busstops.add.xml' ... done (17ms).
+Loading additional-files from 'C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\OffloadOptimization\e1detectors.add.xml' ... done (83ms).
+Loading additional-files from 'C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\OffloadOptimization\lust.poly.xml' ... done (583ms).
+Loading additional-files from 'C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\OffloadOptimization\tll.static.xml' ... done (30ms).
+Loading done.
+Simulation started with time: 28800.00
+Warning: Vehicle '8FRtoBE.0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=28850.00.
+Warning: Vehicle 'carIn20843:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=28861.00.
+Warning: Vehicle 'h32234c1:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29049.00.
+Warning: Vehicle '8FRtoDE.29' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29054.00.
+Warning: Vehicle 'carIn1946:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29155.00.
+Warning: Vehicle 'carIn22064:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29161.00.
+Warning: Vehicle '8BEtoFR.27' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29181.00.
+Warning: Vehicle 'carIn27691:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29188.00.
+Warning: Vehicle 'carIn28026:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29211.00.
+Warning: Vehicle 'randUni15244:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29213.00.
+Warning: Vehicle 'carIn22586:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29232.00.
+Warning: Vehicle 'carIn28026:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29249.00.
+Warning: Vehicle 'carIn21042:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29254.00.
+Warning: Vehicle 'carIn45326:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29267.00.
+Warning: Vehicle 'carIn37674:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29281.00.
+Warning: Vehicle '8FRtoLU.47' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29301.00.
+Warning: Vehicle 'carIn35229:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29320.00.
+Warning: Vehicle 'carIn2933:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29339.00.
+Warning: Vehicle 'carIn44205:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29352.00.
+Warning: Vehicle 'carIn34606:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29356.00.
+Warning: Vehicle '8BEtoLU.32' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29358.00.
+Warning: Vehicle 'carIn28842:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29380.00.
+Warning: Vehicle 'carIn37550:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29388.00.
+Warning: Vehicle '8FRtoBE.49' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29395.00.
+Warning: Vehicle 'carIn34606:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29404.00.
+Warning: Vehicle 'carIn20522:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29415.00.
+Warning: Vehicle 'carIn46673:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29425.00.
+Warning: Vehicle 'carIn22757:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29447.00.
+Warning: Vehicle 'carIn27205:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29457.00.
+Warning: Vehicle 'h34795c1:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29458.00.
+Warning: Vehicle 'h58724c1:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29466.00.
+Warning: Vehicle 'carIn15634:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29466.00.
+Warning: Vehicle 'carIn31514:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29484.00.
+Warning: Vehicle 'h33497c2:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29489.00.
+Warning: Vehicle 'h23004c1:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29490.00.
+Warning: Vehicle 'h29043c2:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29508.00.
+Warning: Vehicle 'carIn6065:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29510.00.
+Warning: Vehicle 'carIn4407:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29518.00.
+Warning: Vehicle 'carIn46039:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29532.00.
+Warning: Vehicle 'carIn43510:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29537.00.
+Warning: Vehicle '8BEtoLU.55' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29555.00.
+Warning: Vehicle 'randUni6073:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29558.00.
+Warning: Vehicle '8FRtoBE.69' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29589.00.
+Warning: Vehicle '8FRtoLU.78' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29592.00.
+Warning: Teleporting vehicle 'carIn43710:1'; collision with vehicle '8FRtoLU.78', lane='-32426#2_1', gap=-4.82, time=29594.00 stage=move.
+Warning: Vehicle 'carIn43710:1' ends teleporting on edge '-32426#2-AddedOffRampEdge', time 29594.00.
+Warning: Vehicle 'carIn35953:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29606.00.
+Warning: Vehicle 'h55702c2:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29614.00.
+Warning: Vehicle 'carIn7134:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29619.00.
+Warning: Vehicle 'carIn10516:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29622.00.
+Warning: Vehicle 'carIn10199:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29639.00.
+Warning: Vehicle 'carIn24695:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29645.00.
+Warning: Vehicle 'h60042c1:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29655.00.
+Warning: Vehicle 'carIn5125:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29674.00.
+Warning: Vehicle '8FRtoDE.89' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29680.00.
+Warning: Vehicle 'h23163c1:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29712.00.
+Warning: Vehicle 'h73347c2:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29736.00.
+Warning: Vehicle 'carIn16473:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29742.00.
+Warning: Vehicle '8FRtoDE.102' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29766.00.
+Warning: Vehicle '8FRtoDE.103' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29779.00.
+Warning: Vehicle 'carIn37274:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29784.00.
+Warning: Vehicle 'carIn9162:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29822.00.
+Warning: Vehicle 'h947c2:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29840.00.
+Warning: Vehicle 'carIn21745:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29840.00.
+Warning: Vehicle 'carIn27015:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29846.00.
+Warning: Vehicle 'carIn28061:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29858.00.
+Warning: Vehicle 'carIn786:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29864.00.
+Warning: Vehicle 'carIn14748:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29894.00.
+Warning: Vehicle 'h21837c1:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29897.00.
+Warning: Vehicle 'carIn3946:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29917.00.
+Warning: Vehicle '8DEtoFR.96' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29922.00.
+Warning: Vehicle 'carIn46156:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29924.00.
+Warning: Vehicle 'carIn16575:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29947.00.
+Warning: Vehicle 'carIn48870:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29958.00.
+Warning: Vehicle 'carIn37519:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29966.00.
+Warning: Vehicle 'carIn3533:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=29973.00.
+Warning: Vehicle 'carIn42687:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30018.00.
+Warning: Teleporting vehicle 'carIn12434:1'; collision with vehicle 'carIn42687:1', lane='-30668#2_1', gap=-5.89, time=30018.00 stage=move.
+Warning: Vehicle 'carIn12434:1' ends teleporting on edge '-30668#2-AddedOffRampEdge', time 30018.00.
+Warning: Vehicle '8FRtoLU.129' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30045.00.
+Warning: Vehicle 'carIn9648:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30077.00.
+Warning: Vehicle 'carIn23663:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30081.00.
+Warning: Vehicle 'carIn20863:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30111.00.
+Warning: Vehicle 'carIn43899:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30118.00.
+Warning: Vehicle 'carIn32876:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30157.00.
+Warning: Vehicle 'carIn14969:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30170.00.
+Warning: Vehicle 'carIn8196:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30180.00.
+Warning: Vehicle 'carIn40695:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30196.00.
+Warning: Vehicle 'h62599c1:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30204.00.
+Warning: Vehicle 'h33798c1:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30208.00.
+Warning: Vehicle 'h20461c2:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30208.00.
+Warning: Vehicle 'carIn11445:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30213.00.
+Warning: Vehicle 'carIn1161:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30223.00.
+Warning: Vehicle 'carIn17243:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30225.00.
+Warning: Vehicle 'carIn10958:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30246.00.
+Warning: Vehicle 'carIn8195:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30253.00.
+Warning: Vehicle 'carIn39458:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30261.00.
+Warning: Vehicle 'h270c1:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30270.00.
+Warning: Vehicle 'carIn40048:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30277.00.
+Warning: Vehicle 'carIn19012:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30293.00.
+Warning: Vehicle '8FRtoLU.154' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30321.00.
+Warning: Vehicle 'carIn37456:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30322.00.
+Warning: Vehicle 'carIn11337:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30323.00.
+Warning: Vehicle 'h16438c1:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30350.00.
+Warning: Vehicle 'carIn13491:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30365.00.
+Warning: Vehicle 'carIn13726:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30366.00.
+Warning: Vehicle 'carIn19994:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30374.00.
+Warning: Vehicle 'h38087c1:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30456.00.
+Warning: Vehicle 'h40487c1:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30462.00.
+Warning: Vehicle 'carIn6480:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30464.00.
+Warning: Vehicle 'carIn1026:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30466.00.
+Warning: Vehicle 'h67457c1:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30467.00.
+Warning: Vehicle 'h50586c1:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30478.00.
+Warning: Vehicle 'h37262c1:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30485.00.
+Warning: Vehicle 'carIn15075:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30514.00.
+Warning: Vehicle 'h16314c1:1' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30530.00.
+Simulation ended at time: 30541.00
+Performance: 
+ Duration: 250.26s
+ Real time factor: 6.95688
+ UPS: 24751.110862
+Vehicles: 
+ Inserted: 12053 (Loaded: 13166)
+ Running: 4626
+ Waiting: 525
+Teleports: 2 (Collisions: 2)
+
+DijkstraRouter answered 18889 queries and explored 1996.79 edges on average.
+DijkstraRouter spent 44.15s answering queries (2.34ms on average).

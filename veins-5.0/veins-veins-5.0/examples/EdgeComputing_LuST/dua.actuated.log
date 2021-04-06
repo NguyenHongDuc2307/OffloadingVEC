@@ -1,0 +1,20 @@
+Loading net-file from 'C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\EdgeComputing_LuST\lust.net.xml' ... done (2164ms).
+Loading additional-files from 'C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\EdgeComputing_LuST\vtypes.add.xml' ... done (2ms).
+Loading additional-files from 'C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\EdgeComputing_LuST\busstops.add.xml' ... done (30ms).
+Loading additional-files from 'C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\EdgeComputing_LuST\e1detectors.add.xml' ... done (60ms).
+Loading additional-files from 'C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\EdgeComputing_LuST\lust.poly.xml' ... done (670ms).
+Loading done.
+Running start /B "" "C:\Program Files (x86)\Eclipse\Sumo\/bin/netedit" --registry-viewport -s "C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\EdgeComputing_LuST\lust.net.xml".
+Simulation started with time: 0.00
+Simulation ended at time: 2.00
+Performance: 
+ Duration: 338.38s
+ Real time factor: 0.00591057
+ UPS: 0.011821
+Vehicles: 
+ Inserted: 2 (Loaded: 7)
+ Running: 2
+ Waiting: 0
+
+DijkstraRouter answered 1 queries and explored 3195.00 edges on average.
+DijkstraRouter spent 0.00s answering queries (4.00ms on average).

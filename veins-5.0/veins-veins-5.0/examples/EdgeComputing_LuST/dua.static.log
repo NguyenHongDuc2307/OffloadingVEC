@@ -1,0 +1,17 @@
+Loading net-file from 'C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\EdgeComputing_LuST\lust.net.xml' ... done (2046ms).
+Loading additional-files from 'C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\EdgeComputing_LuST\vtypes.add.xml' ... done (1ms).
+Loading additional-files from 'C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\EdgeComputing_LuST\busstops.add.xml' ... done (19ms).
+Loading additional-files from 'C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\EdgeComputing_LuST\e1detectors.add.xml' ... done (55ms).
+Loading additional-files from 'C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\EdgeComputing_LuST\lust.poly.xml' ... done (474ms).
+Loading additional-files from 'C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\EdgeComputing_LuST\tll.static.xml' ... done (25ms).
+Loading done.
+Simulation ended at time: 0.00
+Performance: 
+ Duration: 10506.27s
+ Real time factor: 0
+ UPS: 0.000000
+Vehicles: 
+ Inserted: 0 (Loaded: 7)
+ Running: 0
+ Waiting: 0
+

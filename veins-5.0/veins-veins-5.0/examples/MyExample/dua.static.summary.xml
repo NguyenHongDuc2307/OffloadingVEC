@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 03/24/21 22:29:03 by Eclipse SUMO GUI Version 1.7.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\MyExample\lust.net.xml"/>
+        <route-files value="C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\MyExample\buslines.rou.xml,C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\MyExample\local.0.rou.xml,C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\MyExample\local.1.rou.xml,C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\MyExample\local.2.rou.xml,C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\MyExample\transit.rou.xml"/>
+        <additional-files value="C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\MyExample\vtypes.add.xml,C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\MyExample\busstops.add.xml,C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\MyExample\e1detectors.add.xml,C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\MyExample\lust.poly.xml,C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\MyExample\tll.static.xml"/>
+    </input>
+
+    <output>
+        <summary-output value="C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\MyExample\dua.static.summary.xml"/>
+        <tripinfo-output value="C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\MyExample\dua.static.tripinfo.xml"/>
+    </output>
+
+    <time>
+        <begin value="1500"/>
+        <step-length value="1"/>
+    </time>
+
+    <processing>
+        <ignore-junction-blocker value="20"/>
+        <time-to-teleport value="600"/>
+        <max-depart-delay value="600"/>
+    </processing>
+
+    <routing>
+        <routing-algorithm value="dijkstra"/>
+        <device.rerouting.probability value="0.7"/>
+        <device.rerouting.period value="300"/>
+        <device.rerouting.pre-period value="300"/>
+    </routing>
+
+    <report>
+        <verbose value="true"/>
+        <log value="C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\MyExample\dua.static.log"/>
+    </report>
+
+    <gui_only>
+        <tracker-interval value="1"/>
+    </gui_only>
+
+</configuration>
+-->
+
+<summary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/summary_file.xsd">
+</summary>

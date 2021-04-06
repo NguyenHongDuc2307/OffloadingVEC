@@ -1,0 +1,17 @@
+Loading net-file from 'C:\Users\Duc\OneDrive\Máy tính\Mater_Tokyo\Omnetpp\LuSTScenario-master\LuSTScenario-master\scenario\lust.net.xml' ... done (1610ms).
+Loading additional-files from 'C:\Users\Duc\OneDrive\Máy tính\Mater_Tokyo\Omnetpp\LuSTScenario-master\LuSTScenario-master\scenario\vtypes.add.xml' ... done (2ms).
+Loading additional-files from 'C:\Users\Duc\OneDrive\Máy tính\Mater_Tokyo\Omnetpp\LuSTScenario-master\LuSTScenario-master\scenario\busstops.add.xml' ... done (24ms).
+Loading additional-files from 'C:\Users\Duc\OneDrive\Máy tính\Mater_Tokyo\Omnetpp\LuSTScenario-master\LuSTScenario-master\scenario\e1detectors.add.xml' ... done (49ms).
+Loading additional-files from 'C:\Users\Duc\OneDrive\Máy tính\Mater_Tokyo\Omnetpp\LuSTScenario-master\LuSTScenario-master\scenario\lust.poly.xml' ... done (477ms).
+Loading additional-files from 'C:\Users\Duc\OneDrive\Máy tính\Mater_Tokyo\Omnetpp\LuSTScenario-master\LuSTScenario-master\scenario\tll.static.xml' ... done (23ms).
+Loading done.
+Simulation ended at time: 0.00
+Performance: 
+ Duration: 4.89s
+ Real time factor: 0
+ UPS: 0.000000
+Vehicles: 
+ Inserted: 0 (Loaded: 7)
+ Running: 0
+ Waiting: 0
+

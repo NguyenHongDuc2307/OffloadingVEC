@@ -1,0 +1,18 @@
+Loading net-file from 'C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\Aoki_sensei_assignment\lust.net.xml' ... done (1559ms).
+Loading additional-files from 'C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\Aoki_sensei_assignment\vtypes.add.xml' ... done (2ms).
+Loading additional-files from 'C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\Aoki_sensei_assignment\busstops.add.xml' ... done (25ms).
+Loading additional-files from 'C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\Aoki_sensei_assignment\e1detectors.add.xml' ... done (51ms).
+Loading additional-files from 'C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\Aoki_sensei_assignment\lust.poly.xml' ... done (518ms).
+Loading additional-files from 'C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\Aoki_sensei_assignment\tll.static.xml' ... done (16ms).
+Loading done.
+Running start /B "" "C:\Program Files (x86)\Eclipse\Sumo\/bin/netedit" --registry-viewport -s "C:\Users\Duc\source\veins-5.0\veins-veins-5.0\examples\Aoki_sensei_assignment\lust.net.xml".
+Simulation ended at time: 32400.00
+Performance: 
+ Duration: 5494.84s
+ Real time factor: 0
+ UPS: 0.000000
+Vehicles: 
+ Inserted: 0 (Loaded: 9)
+ Running: 0
+ Waiting: 0
+

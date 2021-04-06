@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scave:Analysis xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:scave="http://www.omnetpp.org/omnetpp/scave">
+  <inputs>
+    <inputs name="/veins/examples/EdgeComputing_LuST/results/General-*.vec"/>
+    <inputs name="/veins/examples/EdgeComputing_LuST/results/General-*.sca"/>
+  </inputs>
+  <datasets>
+    <datasets name="revTaskNum_7PM">
+      <items xsi:type="scave:Add" filterPattern="name(revTaskNum)"/>
+      <items xsi:type="scave:BarChart" name="revTaskNum_7PM"/>
+    </datasets>
+    <datasets name="0AM">
+      <items xsi:type="scave:Add" filterPattern="name(revTaskNum)"/>
+      <items xsi:type="scave:Add" filterPattern="name(compTaskNum)"/>
+      <items xsi:type="scave:Add" filterPattern="name(sentTaskNum)"/>
+    </datasets>
+    <datasets name="9AM">
+      <items xsi:type="scave:Add" filterPattern="name(compTaskNum)"/>
+      <items xsi:type="scave:Add" filterPattern="name(sentTaskNum)"/>
+      <items xsi:type="scave:Add" filterPattern="name(revTaskNum)"/>
+    </datasets>
+    <datasets name="7PM">
+      <items xsi:type="scave:Add" filterPattern="name(revTaskNum)"/>
+      <items xsi:type="scave:Add" filterPattern="name(compTaskNum)"/>
+      <items xsi:type="scave:Add" filterPattern="name(sentTaskNum)"/>
+    </datasets>
+  </datasets>
+  <chartSheets>
+    <chartSheets name="default" charts="//@datasets/@datasets.0/@items.1"/>
+  </chartSheets>
+</scave:Analysis>
